@@ -46,7 +46,7 @@
   <div style="max-width:1100px;margin:0 auto;">
     <a href="index.html" class="back-link">
       <svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
-      Վերադառնալ հավաքածուն
+      Վերադառնալ հավաքածուին
     </a>
   </div>
 
@@ -95,7 +95,7 @@
   const product = products.find(p => p.id === id)
 
   if (!product) {
-    document.getElementById('productDetail').innerHTML = '<p style="text-align:center;padding:60px;color:var(--mid)">Կտորը չի գտնվել։ <a href="index.html">Վերադառնալ</a></p>'
+    document.getElementById('productDetail').innerHTML = '<p style="text-align:center;padding:60px;color:var(--mid)">Ապրանքը չի գտնվել։ <a href="index.html">Վերադառնալ</a></p>'
   } else {
     // Update SEO meta
     document.title = `${product.name} — Mirage Handmade`
