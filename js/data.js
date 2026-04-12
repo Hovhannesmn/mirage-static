@@ -23,7 +23,7 @@ const products = [
     fullDesc: "Սիրուն պանդան նստած նարնջագույն լուսնի վրա, ծաղիկներով։ Ձեռագործ պապյե մաշե։ Հարմար նվեր երեխաների համար։\n\nPanda sitting on an orange crescent moon with flowers. Handmade papier-mache. A lovely gift for children.",
     price: "֏ 10,000",
     sizes: ["Բարձրություն՝ ~12 սմ","Լայնություն՝ ~10 սմ"],
-    images: ["images/mirage/panda/1.jpg","images/mirage/panda/2.jpg"],
+    images: ["images/mirage/panda/1.jpg","images/mirage/panda/2.jpg", "images/mirage/panda/3.jpg"],
     video: "images/mirage/panda/video.mov",
   },
   {
