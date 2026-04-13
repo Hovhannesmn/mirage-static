@@ -137,7 +137,7 @@
           <div class="sizes-title">Չափսեր</div>
           <div class="sizes">${sizesHTML}</div>
         </div>
-        <p class="product-desc">${product.fullDesc}</p>
+        <p class="product-desc">${product.fullDesc.replace(/\n/g, '<br>')}</p>
         <div class="divider"></div>
         <div class="action-btns">
           <a href="tel:+37493511288" class="btn-action btn-call">
