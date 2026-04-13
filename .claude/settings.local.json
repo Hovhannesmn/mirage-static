@@ -33,7 +33,12 @@
       "Bash(GIT_SSH_COMMAND=\"ssh -i ./id_ed25519 -o IdentitiesOnly=yes\" git pull:*)",
       "Bash(dig:*)",
       "mcp__chrome-devtools__evaluate_script",
-      "Bash(GIT_SSH_COMMAND=\"/usr/bin/ssh -i ./id_ed25519 -o IdentitiesOnly=yes -o StrictHostKeyChecking=no\" git push origin main)"
+      "Bash(GIT_SSH_COMMAND=\"/usr/bin/ssh -i ./id_ed25519 -o IdentitiesOnly=yes -o StrictHostKeyChecking=no\" git push origin main)",
+      "Bash(mkdir -p /Users/hmanukyan/Projects/mirage-static/instagram/post-2-panda)",
+      "Bash(cp /Users/hmanukyan/Projects/mirage-static/images/mirage/panda/1.jpg /Users/hmanukyan/Projects/mirage-static/images/mirage/panda/2.jpg /Users/hmanukyan/Projects/mirage-static/images/mirage/panda/3.jpg /Users/hmanukyan/Projects/mirage-static/images/mirage/panda/video.mov /Users/hmanukyan/Projects/mirage-static/instagram/post-2-panda/)",
+      "WebFetch(domain:www.facebook.com)",
+      "WebFetch(domain:www.instagram.com)",
+      "WebFetch(domain:miragehandmade.com)"
     ],
     "deny": [
       "Bash(grep:*)",
