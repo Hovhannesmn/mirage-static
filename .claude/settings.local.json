@@ -1,0 +1,47 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api:*)",
+      "Bash(ssh-keygen:*)",
+      "Bash(git:*)",
+      "Bash(GIT_SSH_COMMAND=\"ssh -i /Users/hmanukyan/Documents/id_ed25519 -o IdentitiesOnly=yes\" git:*)",
+      "Bash(mv /Users/hmanukyan/Documents/id_ed25519 /Users/hmanukyan/Projects/mirage-static/)",
+      "Bash(mv /Users/hmanukyan/Documents/id_ed25519.pub /Users/hmanukyan/Projects/mirage-static/)",
+      "Read(//Users/hmanukyan/Projects/mirage/.claude/**)",
+      "Bash(ls:*)",
+      "Bash(npm list:*)",
+      "Bash(npx get-shit-done:*)",
+      "Bash(npx get-shit-done-cc@latest:*)",
+      "Bash(GIT_SSH_COMMAND=\"ssh -i ./id_ed25519 -o IdentitiesOnly=yes\" git push:*)",
+      "Bash(node:*)",
+      "Bash(claude --version)",
+      "Bash(chmod +x:*)",
+      "Bash(bash:*)",
+      "Bash(./scripts/raft-armenian.sh:*)",
+      "Bash(jobs -l)",
+      "Bash(open:*)",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__chrome-devtools__list_pages",
+      "Bash(sips:*)",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__click",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__type_text",
+      "mcp__chrome-devtools__press_key",
+      "mcp__chrome-devtools__select_page",
+      "Bash(GIT_SSH_COMMAND=\"ssh -i ./id_ed25519 -o IdentitiesOnly=yes\" git pull:*)",
+      "Bash(dig:*)",
+      "mcp__chrome-devtools__evaluate_script",
+      "Bash(GIT_SSH_COMMAND=\"/usr/bin/ssh -i ./id_ed25519 -o IdentitiesOnly=yes -o StrictHostKeyChecking=no\" git push origin main)"
+    ],
+    "deny": [
+      "Bash(grep:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(sed:*)",
+      "Bash(awk:*)"
+    ]
+  }
+}
