@@ -28,3 +28,20 @@ GIT_SSH_COMMAND="ssh -i ./id_ed25519 -o IdentitiesOnly=yes" git push origin main
 ## Hosting
 
 Hosted via GitHub Pages at: https://hovhannesmn.github.io/mirage-static/
+
+## Domain
+
+- Website: https://miragehandmade.com
+
+## Social Media
+
+- **Facebook Page**: Mirage Handmade
+  - Page ID: 104097984435154
+  - URL: https://www.facebook.com/profile.php?id=100069396610679
+  - Category: Artist
+- **Instagram**: @mirage_naritoys
+  - URL: https://www.instagram.com/mirage_naritoys
+  - Category: Artist
+- **Meta Business Suite**: https://business.facebook.com/latest/home?asset_id=104097984435154
+- **Phone**: +374 93 511288
+- **WhatsApp**: https://wa.me/37493511288
