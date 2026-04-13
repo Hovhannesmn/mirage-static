@@ -9,7 +9,7 @@ const products = [
     tag: "Սկյուռ",
     name: "Սկյուռիկ",
     shortDesc: "Սկյուռիկ կանաչ սվիտերով ու շարֆով։ Կախովի զարդ։",
-    fullDesc: "Ձեռագործ պապյե մաշե սկյուռիկ՝ կանաչ սվիտերով, նախշավոր շարֆով ու ուսապարկով։ Ամեն մանրամասնը ձեռքով է ներկված ու եզակի է։\n\nSquirrel in green sweater with a scarf and backpack. Handmade papier-mache, each piece is unique.",
+    fullDesc: "Ձեռագործ պապյե մաշե սկյուռիկ՝ հագնված կանաչ սվիտերով և նախշավոր շարֆով։ Ամեն դետալը սիրով ու ուշադրությամբ ձեռքով է պատրաստված, ինչը յուրաքանչյուր նմուշ դարձնում է իսկապես եզակի։։\n\nSquirrel in a cozy green sweater and patterned scarf. Handmade from papier-mâché, with every detail carefully painted — no two pieces are ever the same.",
     price: "֏ 12,000",
     sizes: ["Բարձրություն՝ ~15 սմ","Լայնություն՝ ~6 սմ"],
     images: ["images/mirage/squirrel/1.jpg","images/mirage/squirrel/2.jpg","images/mirage/squirrel/3.jpg","images/mirage/squirrel/4.jpg","images/mirage/squirrel/5.jpg","images/mirage/squirrel/6.jpg","images/mirage/squirrel/7.jpg"],
