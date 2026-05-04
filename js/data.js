@@ -100,7 +100,7 @@ const products = [
     fullDesc: "Բալերինա դեղին տուտուով ու ծաղիկներով մազերում։ Նրբագեղ կեցվածք ու նազիկ դեմք։ Կախովի զարդ։\n\nBallerina in yellow tutu with flowers in her hair. Elegant pose, delicate face. Handmade papier-mache.",
     price: "֏ 9,500",
     sizes: ["Բարձրություն՝ ~16 սմ","Լայնություն՝ ~5 սմ"],
-    images: ["images/mirage/ballerina/1.jpg","images/mirage/ballerina/2.jpg","images/mirage/ballerina/3.jpg","images/mirage/ballerina/4.jpg","images/mirage/ballerina/5.jpg"],
+    images: ["images/mirage/ballerina/1.jpg","images/mirage/ballerina/2.jpg","images/mirage/ballerina/3.jpg"],
     video: "images/mirage/ballerina/video.mov",
   },
   {
